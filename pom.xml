@@ -23,7 +23,7 @@
         <protobuf.version>2.6.1</protobuf.version>
         <guava.version>16.0.1</guava.version>
         <slf4j.version>1.7.21</slf4j.version>
-        <logback.version>1.0.13</logback.version>
+        <logback.version>1.2.0</logback.version>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
