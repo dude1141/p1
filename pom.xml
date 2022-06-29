@@ -15,7 +15,7 @@
         <spark.version>2.3.0</spark.version>
         <hive.version>2.3.3</hive.version>
         <hbase.version>1.4.4</hbase.version>
-        <zookeeper.version>3.4.5</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <scala.api_version>2.11</scala.api_version>
