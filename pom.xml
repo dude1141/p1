@@ -20,7 +20,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <scala.api_version>2.11</scala.api_version>
         <scala.version>2.11.8</scala.version>
-        <protobuf.version>2.6.1</protobuf.version>
+        <protobuf.version>3.16.3</protobuf.version>
         <guava.version>16.0.1</guava.version>
         <slf4j.version>1.7.21</slf4j.version>
         <logback.version>1.0.13</logback.version>
